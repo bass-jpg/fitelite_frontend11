@@ -72,7 +72,7 @@ const LoginPage: React.FC = () => {
         <div className="bg-dark-800/60 border border-dark-700 rounded-xl p-3 text-xs text-dark-400">
           <p className="font-medium text-dark-300 mb-1">Comptes de démonstration :</p>
           <p>👤 aminata@fittrack.com / fittrack2024</p>
-          <p>🔑 admin@fittrack.com / fittrack2024</p>
+          
         </div>
 
         <Input label="Adresse email" type="email" placeholder="vous@exemple.com" value={email}
